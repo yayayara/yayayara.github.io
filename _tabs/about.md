@@ -3,16 +3,11 @@
 icon: fas fa-info-circle
 order: 4
 ---
-
-## Yara is a master student following computer science with the specialization Cyber Security at the University of Twente
-
-She has already finished her Informatica bachelor at the Hogeschool van Leiden with the specialization Digital Forensics. Within this degree, she did completed her internship at the CSIRT from KPN and 
-
 # About
-
 ## Welcome to Yara-DFIR!
 
 Yara-DFIR is the personal website of Yara, a dedicated professional in the field of Digital Forensics and Incident Response (DFIR). This platform serves as a comprehensive portfolio, showcasing Yara's journey, achievements, and expertise. Here, you will find details about her obtained certificates, CTF (Capture the Flag) write-ups, resume, and study log.
+She already finished her Informatica bachelor at the Hogeschool van Leiden with the specialization Digital Forensics. 
 
 ## Why Yara-DFIR?
 
