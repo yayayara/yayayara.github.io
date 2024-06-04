@@ -35,7 +35,7 @@ To explore Yara-DFIR, follow these steps:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE][licence] file for details.
 
 ## Contact
 
@@ -50,3 +50,5 @@ Thank you for visiting Yara-DFIR!
 ---
 
 *This project is maintained by Yara.*
+
+[licence]: https://github.com/yayayara/yayayara.github.io/blob/main/LICENSE
