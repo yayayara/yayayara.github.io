@@ -32,6 +32,7 @@ To explore Yara-DFIR, follow these steps:
 1. **Navigate the Sections**: Use the categories to explore different sections like Certificates, CTF Write-ups, Resume, and Study Log.
 2. **Read the Write-ups**: Dive into the CTF write-ups to learn from Yara's experiences and approaches to various challenges.
 3. **Check the Updates**: Visit the Study Log regularly to stay updated with Yara's latest learning activities and progress.
+4. **Tags**: To filter onto certain topics you interested in!
 
 ## License
 
