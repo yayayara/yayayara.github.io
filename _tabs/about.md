@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-# About
+
 ## Welcome to Yara-DFIR!
 
 Yara-DFIR is the personal website of Yara, a dedicated professional in the field of Digital Forensics and Incident Response (DFIR). This platform serves as a comprehensive portfolio, showcasing Yara's journey, achievements, and expertise. Here, you will find details about her obtained certificates, CTF (Capture the Flag) write-ups, resume, and study log.
