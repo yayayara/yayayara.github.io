@@ -41,8 +41,8 @@ This project is licensed under the MIT License - see the [LICENSE][licence] file
 
 If you have any questions, feel free to reach out:
 
-- **Email:** [yaradfir-gmail.com](mailto:yaradfir@gmail.com)
-- **LinkedIn:** [@yara](https://www.linkedin.com/in/yaravanschendel/)
+- **Email:** [yaradfir gmail.com](mailto:yaradfir@gmail.com)
+- **LinkedIn:** [Yara](https://www.linkedin.com/in/yaravanschendel/)
 - **GitHub Issues:** [GitHub Issues Page](https://github.com/yayayara/yayayara.github.io/issues)
 
 Thank you for visiting Yara-DFIR!
