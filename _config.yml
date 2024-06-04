@@ -14,7 +14,7 @@ timezone: Europe/Amsterdam
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Yara # the main title
+title: Yara-DFIR # the main title
 
 tagline: Master student computer science University of Twente # it will display as the sub-title
 
@@ -39,7 +39,7 @@ social:
     - https://github.com/yayayara # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/yaravanschendel/
+    - https://www.linkedin.com/in/yaravanschendel
 
 # Site Verification Settings
 # webmaster_verifications:
@@ -83,7 +83,7 @@ social:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark # [light | dark]
+theme_mode:  # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -93,7 +93,7 @@ theme_mode: dark # [light | dark]
 # cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 
+avatar: assets/avatar.svg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
