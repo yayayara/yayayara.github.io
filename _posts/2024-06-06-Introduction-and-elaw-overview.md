@@ -5,9 +5,6 @@ categories: [E-Law]
 tags: [copyright, software protection, database protection, legal basics]
 math: true
 ---
-
-# Online Copyright and Software & Database Protection: A Beginner's Legal Guide
-
 This blog post series on E-Law is a course offered at the University of Twente in the Master’s program for Computer Science, specializing in cybersecurity. The course, taught by Dr. Lesley C.P. Broos, LL.M, provides an in-depth introduction to the field of E-Law. E-Law addresses the legal challenges arising from the use and misuse of information and communication technologies (ICTs). The aim is to provide an overview of the European Union Law, more specifically to be able to: distinguish legal issues from ethical, political and technical issues. Key topics covered include:
 
 * European legislation on:
