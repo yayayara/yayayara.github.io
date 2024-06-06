@@ -2,8 +2,6 @@
 title: Introduction
 date: 2024-06-06 14:46:00 +0100
 categories: [About me]
-icon: fas fa-info-circle
-order: 4
 pin: true
 ---
 
