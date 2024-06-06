@@ -1,8 +1,8 @@
 ---
 title: "Online Copyright and Software & Database Protection: A Beginner's Legal Guide"
 date: 2024-06-06 11:23:00 +0100
-categories: [E-Law, copyright, law]
-tags: [studylog, elaw]
+categories: [E-Law]
+tags: [copyright, software protection, database protection, legal basics]
 math: true
 ---
 
@@ -93,3 +93,5 @@ Intellectual property rights protect various forms of creation and innovation. *
 ### Main objectives of intellectial property right
 
 Intellectual property rights aim to preserve **identity**, inspire innovation for **encourage people** and confer **pride** or **status** to creators or places. They grand creators  **exclusive exploitation rights** effectibly providing a temporary *monopoly*. By controlling the use and distribution right holders secure their *market position* and prevent unauthorized benefits to competitors. Before market entry, ensuring **freedom-to-operate** is crucial to avoid infringing existing intellectual property rights.
+
+## Directive 2001 29 EC on the harmonisation of certain aspects of copyright
