@@ -4,6 +4,7 @@ date: 2024-06-06 11:23:00 +0100
 categories: [E-Law]
 tags: [copyright, software protection, database protection, legal basics]
 math: true
+comments: false
 ---
 This blog post series on E-Law is a course offered at the University of Twente in the Master’s program for Computer Science, specializing in cybersecurity. The course, taught by Dr. Lesley C.P. Broos, LL.M, provides an in-depth introduction to the field of E-Law. E-Law addresses the legal challenges arising from the use and misuse of information and communication technologies (ICTs). The aim is to provide an overview of the European Union Law, more specifically to be able to: distinguish legal issues from ethical, political and technical issues. Key topics covered include:
 
@@ -92,3 +93,34 @@ Intellectual property rights protect various forms of creation and innovation. *
 Intellectual property rights aim to preserve **identity**, inspire innovation for **encourage people** and confer **pride** or **status** to creators or places. They grand creators  **exclusive exploitation rights** effectibly providing a temporary *monopoly*. By controlling the use and distribution right holders secure their *market position* and prevent unauthorized benefits to competitors. Before market entry, ensuring **freedom-to-operate** is crucial to avoid infringing existing intellectual property rights.
 
 ## Directive 2001 29 EC on the harmonisation of certain aspects of copyright
+[Directive 2001/29/EC](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://eur-lex.europa.eu/legal-content/EN/TXT/%3Furi%3Dcelex%253A32001L0029&ved=2ahUKEwj_0YfL_caGAxW8_rsIHfQnLUsQFnoECBUQAQ&usg=AOvVaw1cCsl29XcuUKjmr-LvoD4-), commonly known as the "Copyright Directive," is a European Union directive aimed at harmonizing certain aspects of copyright law across EU member states.
+
+The directive addresses various aspects of copyright law, aiming to adapt it to the challenges posed by the digital age while ensuring a high level of protection for creators. This is the assumption of the harmonisation of certain aspects of copyright. the EU between *traditionalists* and *renewers* led to that we should update and add to current copyright laws to match the way the economy is changing, expecially with new ways to use and profit from ideas. Here is a comprehensive summary of its key provisions:
+
+**Right of Reproduction:** This gives authors and other right holders the exclusive right to control the reporoduction of their works, whether temporary or permanent, in whole or in part. 
+
+**Right of Communication to the Public:** Authors also have the sole right to decide how their works are communicated to the public, including making them available through interactive services.
+
+**Right of Distribution:** Authors can decide whether to allow the distribution of their original works or copies to the public, by sale or other means.
+
+**Protection of Technological Measures:** The directive requires member states to protect against the circumvention of technological measures used by right holders to safeguard their works.
+
+**Exceptions and Limitations:** Member states can make exceptions or limitations to copyright for purposes like education or research, as long as they don't unfairly harm the rights of the creators.
+
+**Temporary Acts of Reproduction:** Temporary acts of reproduction that are part of a technological process, like caching, aren't covered by copyright protection.
+
+**Remedies and Enforcement:** The directive sets up ways to deal with copyright violations, including injunctions, damages, and ways to preserve evidence.
+
+**Collective Management of Rights:** It encourages authors and other right holders to manage their rights collectively, through groups like collecting societies, to make it easier to license and use their works.
+
+**Duration of Copyright Protection:** The directive sets a standard duration for copyright protection across member states, lasting the life of the author plus 70 years.
+
+In summary, Directive 2001/29/EC on the harmonization of certain aspects of copyright aims to balance copyright protection in the digital age, protecting the rights of authors and other right holders while allowing for reasonable exceptions and limitations to encourage creativity, innovation, and access to knowledge and culture.
+
+## Directive 2009 24 EC on the legal protection of computer programs
+
+The Essence of intellectual property protection lies in that developing computer programs requires human, technical and financial resources, while copying these programs can be done in a fraction of development cost. Differences in how computer programs are protected across EU have direct and advers effects on the internal markets' (aim of the EU) functioning concerning computer programs. Existing differences that has negative impact must be eliminated. A computer program encompasses programs in any form, also those in hardware. It also covers preparatory design work that can lead to the development of a computer program as long as the nature of this work could result in a computer program in a later stage. Only the actual expression of a computer program is protected by copyright. Ideas and principles underlying incl. the interface is not protected. Logic, algortihms, and programming language are not under this directive, but by copyright.
+
+### Limited Exception for computer programs
+
+The authors' rights to prevent unauthorized reproduction of their work should have a limited exception for computer programs. This allows the reproduction technically for the lawful acquirer to use the program. Loading, running, and correcting errors may nog be prohibited by contract. If no specific contractual terms are not specified, any other action required for using the program copy may be performed according to its purpose. 
