@@ -1,6 +1,6 @@
 ---
 title: Introduction
-description: a brief introduction on what to expect and how to navigate
+description: A brief introduction on what to expect and how to navigate
 date: 2024-06-06 14:46:00 +0100
 categories: [About me]
 tags: [introduction]
