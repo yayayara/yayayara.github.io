@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Welcome
 description: A brief introduction on what to expect and how to navigate
 date: 2024-06-06 14:46:00 +0100
 categories: [About me]
