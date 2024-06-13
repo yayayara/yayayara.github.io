@@ -1,7 +1,7 @@
 ---
 title: "Online Copyright and Software & Database Protection: A Beginner's Legal Guide"
 date: 2024-06-12 13:04:00 +0100
-categories: [Studylog, E-Law]
+categories: [E-Law]
 tags: [copyright, software protection, database protection, legal basics]
 math: true
 comments: false
