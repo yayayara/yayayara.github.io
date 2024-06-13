@@ -2,7 +2,7 @@
 title: "Introduction into Feature-based machine learning"
 date: 2024-06-12 13:10:00 +0100
 categories: [Cyber Data Analytics]
-tags: [machine learning, ]
+tags: [machine learning]
 math: true
 comments: false
 ---
@@ -20,9 +20,7 @@ This blog post series on Cyber Data Analytics is a course offered at the Univers
 * Preserve the privacy of data owners while learning models
 * Learn robust models that can detect evasive attackers
 
-## Lecture 1: Introduction to Machine Learning in Cyber Security**
-
-**Machine Learning - What is it Good For?**
+## Machine Learning - What is it Good For?
 
 *Advantages*:
 
