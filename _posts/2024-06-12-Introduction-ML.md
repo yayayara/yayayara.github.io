@@ -91,11 +91,11 @@ This blog post series on Cyber Data Analytics is a course offered at the Univers
   * Must satisfy:
     * Identity: d(x,x) = 0
     * Positivity: If x ≠ y, d(x,y) > 0
-    * Symmetry: d(x,y) = d(y,x) (
-    * Triangle Inequality: d(x,z) ≤ d(x,y) + d(y,z) (
+    * Symmetry: d(x,y) = d(y,x)
+    * Triangle Inequality: d(x,z) ≤ d(x,y) + d(y,z)
 
 * **Distance Metrics**:
   * **Euclidean Distance (L2)**:
-  *  \$$ \sqrt{\sum |x_i^2 + y_i^2|} $$
+    1.  \$$ \sqrt{\sum |x_i^2 + y_i^2|} $$
   * **Manhattan Distance (L1)**: To go from point A to B in a straight line, follow the road:
-  *  \$$ \sqrt{|x_i + y_i|} $$
+    2.  \$$ \sqrt{|x_i + y_i|} $$
