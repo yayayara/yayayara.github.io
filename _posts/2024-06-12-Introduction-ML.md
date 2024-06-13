@@ -96,6 +96,10 @@ This blog post series on Cyber Data Analytics is a course offered at the Univers
 
 * **Distance Metrics**:
   * **Euclidean Distance (L2)**:
-  *   \( \sqrt{\sum |x_i^2 + y_i^2|} \)
+  *   $$
+      \sqrt{\sum |x_i^2 + y_i^2|}
+      $$
   * **Manhattan Distance (L1)**: To go from point A to B in a straight line, follow the road:
-  *   \( \sqrt{|x_i + y_i|} \).
+  *   $$
+      \sqrt{|x_i + y_i|}
+      $$
