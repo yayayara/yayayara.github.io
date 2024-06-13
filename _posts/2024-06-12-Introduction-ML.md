@@ -9,7 +9,6 @@ comments: false
 This blog post series on Cyber Data Analytics is a course offered at the University of Twente in the Master’s program for Computer Science, specializing in cybersecurity. The course, provides theoretical and practical background for applying data analytics in the field of cyber security. "Anomaly detection is one of the main topics in cyber security. Specific difficulties that the student will learn to handle are the huge amounts of data and the large number of false positives. Behavioral profiling applies to both people and software processes. Different techniques will be taught to construct profiles from software logs. While building such profiles, care should be taken to not infringe upon the privacy of individuals the data is collected from. Finally, attackers will modify their behavior in order to avoid being detected, a cyber data analytics engineer tries to make their models/profiles robust against such modifications." Key topics covered include:
 
 * Apply machine learning to real data
-* Apply machine learning to real data
 * Understand and modify machine learning algorithms
 * Learn models from time series
 * Detect anomalies in multidimensional time-series
